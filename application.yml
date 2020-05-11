@@ -12,4 +12,4 @@ info: 8001
 ---
 spring:
   profiles: test02
-info: 12634654
+info: 123
