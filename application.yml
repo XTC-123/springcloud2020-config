@@ -1,0 +1,15 @@
+spring:
+  profiles: 
+   active: 
+    - test01
+---
+spring:
+  profiles: test01
+info: 8001
+
+
+
+---
+spring:
+  profiles: test02
+info: 8002
